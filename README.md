@@ -1,2 +1,1 @@
-# people-science
-人科学
+# People science
